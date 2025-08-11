@@ -1,10 +1,6 @@
-Insatall dependancies:
-
-	Make sure you have Python 3.x installed.
-
- 	Then, open a terminal and run 
-	
+Insatall dependancies:	
 	pip install pandas numpy scikit-learn matplotlib
+
 How to Run:
 
 1]Open Jupyter Notebook
